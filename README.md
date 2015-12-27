@@ -2,7 +2,6 @@
 title: "Getting and Cleaning Data Project"
 author: "Sagar Pathak"
 date: "December 27, 2015"
-output: html_document
 ---
 
 ### Overview
